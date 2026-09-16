@@ -1,3 +1,5 @@
+<img width="1907" height="966" alt="image" src="https://github.com/user-attachments/assets/bea6951d-b770-4158-892d-7a41504c5125" />
+
 # Formulário React.js
 
 Projeto de exemplo com formulário de cadastro de aluno, usando componentes React e estado local (`useState`).
